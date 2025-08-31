@@ -151,7 +151,7 @@ header nav #toggle-theme #theme-icon {
 
 /* home */
 .first-color {
-  background-color: #050a16;
+   background-color: #0a1224;
 }
 .home {
   padding: 150px 0 80px;
@@ -231,10 +231,10 @@ header nav #toggle-theme #theme-icon {
 
 /* about */
 .second-color {
-  background-color: #091022;
+  background-color: #101a33;
 }
 .main-heading1 {
-  color: #050a16;
+  color: #0a1224;
   font-size: 80px;
   font-weight: 800;
   text-align: center;
@@ -360,7 +360,7 @@ header nav #toggle-theme #theme-icon {
 
 /* experience */
 .main-heading2 {
-  color: #091022;
+  color: #101a33;
   font-size: 80px;
   font-weight: 800;
   text-align: center;
